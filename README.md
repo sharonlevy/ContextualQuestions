@@ -4,7 +4,7 @@ This repository contains the labeled contextual questions from the paper "Evalua
 
 If you use this dataset, please cite our paper:
 ```
-@misc{levy-contextual-questions,
+@article{levy-contextual-questions,
     title = {Evaluating Biases in Context-Dependent Health Questions},
     author = {Levy, Sharon  and
       Karver, Tahilin Sanchez  and
